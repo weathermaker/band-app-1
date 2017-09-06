@@ -39,13 +39,3 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
-
-[![Stories in Ready](https://badge.waffle.io/weathermaker/band-app-1.png?label=ready&title=Ready)](http://waffle.io/weathermaker/band-app-1)
-readme.rst
-
-.. image:: https://badge.waffle.io/weathermaker/band-app-1.png?label=ready&title=Ready 
- :target: https://waffle.io/weathermaker/band-app-1 
- :alt: 'Stories in Ready'
-readme.rdoc
-
-{<img alt='Stories in Ready' src='https://badge.waffle.io/weathermaker/band-app-1.png?label=ready&title=Ready' />}[https://waffle.io/weathermaker/band-app-1]
