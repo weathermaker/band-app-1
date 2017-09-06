@@ -1,0 +1,11 @@
+[default]
+name=Default
+device=local
+runtime=host
+config-opts=
+prefix=/home/dustin/.cache/gnome-builder/install/band-app-1/host
+app-id=
+default=true
+
+[default.environment]
+r=
